@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justforstack
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on Developing Web Pages
+- 🌱 I’m currently learning Full Stack Technologies.
+- 💞️ I’m looking to collaborate on Developing Web Pages and working on Spring Boot + React Frameworks.
 - 📫 How to reach me justforstack031@gmail.com
 
 <!---
