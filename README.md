@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justforstack
+- 👋 Hi, I’m Rachna
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Full Stack Technologies.
 - 💞️ I’m looking to collaborate on Developing Web Pages and working on Spring Boot + React Frameworks.
